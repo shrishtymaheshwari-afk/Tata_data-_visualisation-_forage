@@ -1,4 +1,4 @@
-# Tata_data-_visualisation-_forage
+# Tata data visualisation forage
  ### Project Overview
 This project is part of the Tata Group Data Visualisation Job Simulation hosted on Forage. The simulation replicates real-world data analyst tasks at Tata Insights and Quants (Tata iQ).
 
